@@ -1,0 +1,11 @@
+function getWindowHeight() {
+	return window.innerHeight;
+}
+
+getWindowHeight();
+(function () {
+
+	var foo = 1;
+	return foo;
+})();
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImV4dHJhLmpzIiwibWFpbi5qcyJdLCJuYW1lcyI6WyJnZXRXaW5kb3dIZWlnaHQiLCJ3aW5kb3ciLCJpbm5lckhlaWdodCIsImZvbyJdLCJtYXBwaW5ncyI6IkFBQUEsU0FBU0EsZUFBVCxHQUEyQjtBQUMxQixRQUFPQyxPQUFPQyxXQUFkO0FBQ0E7O0FBRURGO0FDSkEsQ0FBQyxZQUFXOztBQUVYLEtBQUlHLE1BQU0sQ0FBVjtBQUNBLFFBQU9BLEdBQVA7QUFFQSxDQUxEIiwiZmlsZSI6ImFsLmpzIiwic291cmNlc0NvbnRlbnQiOlsiZnVuY3Rpb24gZ2V0V2luZG93SGVpZ2h0KCkge1xuXHRyZXR1cm4gd2luZG93LmlubmVySGVpZ2h0O1xufVxuXG5nZXRXaW5kb3dIZWlnaHQoKTsiLCIoZnVuY3Rpb24oKSB7XG5cblx0dmFyIGZvbyA9IDE7XG5cdHJldHVybiBmb287XG5cbn0pKCk7Il19
